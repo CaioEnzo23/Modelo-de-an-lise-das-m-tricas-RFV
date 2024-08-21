@@ -1,7 +1,7 @@
 # Desafio: Crie um modelo de análise das métricas RFV
 
 Este projeto foi criado com o intuito de aprimorar habilidades em Python utilizando um modelo de clusterização. 
-O objetivo neste projeto é desenvolver um modelo de clusterização que é capaz de agrupar os clientes conforme o seu comportamento de compras levando em consideração o RFM.
+O objetivo neste projeto é desenvolver um modelo de clusterização que é capaz de agrupar os clientes conforme o seu comportamento de compras levando em consideração o RFV.
 Analisei os clusters obtidos para assim identificar o perfil de cliente, como padrões e características em comum para determinar o seu comportamento de compra. 
 Utilizei gráficos e visualizações para auxiliar na análise.
 
